@@ -1,14 +1,13 @@
-# 🌟 Muhammad Hamza | Full Stack Developer & Generative AI Enthusiast 🌟
+# 🌟 Muhammad Hamza | Full Stack Software Developer & Generative AI Enthusiast 🌟
 
-Hi there! 👋 Welcome to my GitHub profile. I’m Muhammad Hamza, a passionate Full Stack Developer and aspiring Generative AI Engineer. With expertise in **MERN stack development**, **sustainability analytics**, and a knack for solving complex problems, I bring ideas to life through **code** and **AI-driven innovation**. 🚀
+Hi there! 👋 Welcome to my GitHub profile. I’m Muhammad Hamza, a passionate Full Stack Software Developer and aspiring Generative AI Engineer. With expertise in **MERN stack development** and a knack for solving complex problems, I bring ideas to life through **code** and **AI-driven innovation**. 🚀
 
 ---
 
 ## 🌐 About Me
 
-- 🎓 **Education**: MBBS graduate, transitioning to tech with a focus on **Generative AI**.
 - 💼 **Professional Experience**:  
-  - Worked on diverse projects like **DreamStream**, **Mahaana**, and **Sustainability Analytics**.  
+  - Worked on diverse projects like **DreamStream**, **Mahaana**, and **Automily**.  
   - Hands-on expertise in **React.js**, **Node.js**, **AWS Lambda**, **AWS Amplify**, and **Redux**.  
   - Freelance contributions to **live chat applications** and **payment gateway integrations**.  
 - 🛠 **Skills**:  
@@ -35,7 +34,6 @@ Creating advanced analytics tools to visualize ESG metrics, generate comparative
 ---
 
 ## ✨ What I’m Working On
-- Building an AI tool to **optimize supply chains for sustainability**.
 - Exploring **Generative AI for personalized health advice** and **research skill mentoring**.
 - Learning **C# and .NET**, alongside database management with **SQL** and **MongoDB**.
 
