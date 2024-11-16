@@ -19,7 +19,7 @@ Hi there! 👋 Welcome to my GitHub profile. I’m Muhammad Hamza, a passionate 
 ---
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,github,figma,tailwind,git,csharp,net,streamlit,vercel" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,github,figma,tailwind,git,c#,net,vercel" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,postgresql,fastapi,docker,linux,aws" /><br>
 </div>
 
