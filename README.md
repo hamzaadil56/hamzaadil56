@@ -16,6 +16,13 @@ Hi there! 👋 Welcome to my GitHub profile. I’m Muhammad Hamza, a passionate 
   </a>
 </div>
 
+---
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,c#,net,streamlit,vercel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,fastapi" /><br>
+</div>
+
 ## 🧑‍💻 Current Projects
 
 ### 🔬 **ResearchMind: AI-Powered Project Mentor for Research Mastery**  
