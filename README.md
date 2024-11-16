@@ -1,4 +1,4 @@
-# 🌟 Muhammad Hamza | Full Stack Software Developer & Generative AI Enthusiast 🌟
+# 🌟 Muhammad Hamza | Software Engineer & Generative AI Enthusiast 🌟
 
 Hi there! 👋 Welcome to my GitHub profile. I’m Muhammad Hamza, a passionate Full Stack Software Developer and aspiring Generative AI Engineer. With expertise in **MERN stack development** and a knack for solving complex problems, I bring ideas to life through **code** and **AI-driven innovation**. 🚀
 
