@@ -4,21 +4,6 @@ Hi there! 👋 Welcome to my GitHub profile. I’m Muhammad Hamza, a passionate 
 
 ---
 
-## 🌐 About Me
-
-- 💼 **Professional Experience**:  
-  - Worked on diverse projects like **DreamStream**, **Mahaana**, and **Automily**.  
-  - Hands-on expertise in **React.js**, **Node.js**, **AWS Lambda**, **AWS Amplify**, and **Redux**.  
-  - Freelance contributions to **live chat applications** and **payment gateway integrations**.  
-- 🛠 **Skills**:  
-  - Frontend: React.js, HTML, CSS, JavaScript/TypeScript  
-  - Backend: Node.js, Express.js, Python  
-  - Databases: MongoDB, PostgreSQL, SQL  
-  - DevOps: Docker, AWS, CI/CD  
-  - Tools: Poetry, Streamlit, LangChain  
-
----
-
 <div align="center"> 
   <a href="mailto:hamzaadil56@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,7 +16,6 @@ Hi there! 👋 Welcome to my GitHub profile. I’m Muhammad Hamza, a passionate 
   </a>
 </div>
 
-
 ## 🧑‍💻 Current Projects
 
 ### 🔬 **ResearchMind: AI-Powered Project Mentor for Research Mastery**  
@@ -41,13 +25,10 @@ Empowering students with a Generative AI solution to streamline research project
 - Literature finder and methodology recommender.  
 - AI-powered timeline and report drafting assistant.
 
-### ♻️ **Sustainability Analytics**  
-Creating advanced analytics tools to visualize ESG metrics, generate comparative reports, and recommend sustainability improvements using **RAG methodology** and **LLaMA 3.1**.
-
 ---
 
-## ✨ What I’m Working On
-- Exploring **Generative AI for personalized health advice** and **research skill mentoring**.
+## ✨ What I’m Learning
+- Grabbing hands-on practice in working with LLMs to build **Generative AI applications**.
 - Learning **C# and .NET**, alongside database management with **SQL** and **MongoDB**.
 
 ---
