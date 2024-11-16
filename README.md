@@ -19,6 +19,19 @@ Hi there! 👋 Welcome to my GitHub profile. I’m Muhammad Hamza, a passionate 
 
 ---
 
+<div align="center"> 
+  <a href="mailto:hamzaadil56@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-hamza-adil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://portfolio-hamzaadil56.vercel.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+
 ## 🧑‍💻 Current Projects
 
 ### 🔬 **ResearchMind: AI-Powered Project Mentor for Research Mastery**  
@@ -36,13 +49,6 @@ Creating advanced analytics tools to visualize ESG metrics, generate comparative
 ## ✨ What I’m Working On
 - Exploring **Generative AI for personalized health advice** and **research skill mentoring**.
 - Learning **C# and .NET**, alongside database management with **SQL** and **MongoDB**.
-
----
-
-## 🌱 Let’s Connect!
-- 💻 **GitHub**: [hamzaadil56](https://github.com/hamzaadil56)  
-- 🖋️ **Blog**: Coming soon!  
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/muhammad-hamza56)  
 
 ---
 
